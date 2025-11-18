@@ -8,7 +8,6 @@ It includes data loading, cleaning, visualization, and insights generation.
 - Visualize genre distribution  
 - Analyze movie vs TV shows  
 - Analyze content added over time  
-- Uses `pandas`, `matplotlib`, and `
 
 #Setup Instructions
 python3 -m venv venv
